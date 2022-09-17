@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConvertPdfToImage": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\lucas.sampaio\\Desktop\\ConvertImage doc jpg"
+    }
+  }
+}
